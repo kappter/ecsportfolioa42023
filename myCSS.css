@@ -11,37 +11,35 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #FFEABA;
 	text-align: center;
-	margin: 0px;
-	padding: 5;
-	float: left;
-	width: 100%;
-	height: 80px;
-	
-}
-.nav {
-	background: #BBBBBB;
 	margin: 0px;
 	padding: 5;
 	float: left;
 	width: 100%;
 	height: 60px;
+}
+.nav {
+	background: #F0D598;
+	margin: 0px;
+	padding: 5;
+	float: left;
+	width: 100%;
+	height: 40px;
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #FFFFFF;
 	margin: 0px;
 	float: left;
 	width: 100%;
-	height: 400px;
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #4663A3;
 	margin: 0px;
 	float: left;
 	width: 100%;
-	height: 50px;
+	height: 40px;
 	text-align: center;
 }
