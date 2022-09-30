@@ -31,8 +31,8 @@ body {
 }
 .content {
 	background: #FFFFFF;
-	<!--margin: 0px;-->
-	<!--float: left;-->
+	margin: 0px;
+	float: left;
 	width: 100%;
 	text-align: center;
 }
